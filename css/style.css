@@ -1,0 +1,179 @@
+/* section 1 codes start here */
+
+@import url('https://fonts.googleapis.com/css?family=Concert+One');
+
+.section_1{
+  font-family: 'Concert One', cursive;
+  background: -webkit-linear-gradient(left, #baf3ff, #009fda);
+  background: -o-linear-gradient(left, #baf3ff #009fda);
+  /* background: linear-gradient(to right, #2968b6 , #0f3667 );  */
+  padding: 1.5% 0 1% 0;
+  font-size: 30px;
+  color: black;
+}
+
+.nav-link{
+  padding-left: 70px !important;
+  color: #0f3667 !important;
+
+}
+.nav-link:hover{
+  color: #898989 !important;
+}
+
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+}
+
+.main-text
+{
+    position: absolute;
+    top: 80px;
+    width: 96.66666666666666%;
+    /* color: #d1efff;  */
+    color: #ccf7f9;
+}
+
+.intro{
+  font-size: 30px;
+  font-weight: 700;
+}
+.nafiur{
+
+  font-size: 10vw;
+  font-family: 'Poppins', sans-serif;
+  background: linear-gradient(to right, #2968b6 0%, #0f3667 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.reza{
+  font-size: 100px;
+
+}
+
+
+
+.section_3{
+  font-size: 15px;
+}
+
+
+/* .navbar{
+  background-color: inherit;
+  border: none;
+}
+
+.navbar .navbar-nav {
+    display: inline-block;
+    float: none;
+
+}
+.navbar .navbar-collapse {
+    text-align: center;
+
+}
+
+.navbar-nav>li>a{
+  color:#b3c6ce !important;
+
+} */
+
+
+
+
+
+
+
+
+/*
+
+
+
+.section_1{
+  font-family: 'Concert One', cursive;
+  background: -webkit-linear-gradient(left, #baf3ff, #009fda);
+  background: -o-linear-gradient(left, #baf3ff #009fda);
+  background: linear-gradient(to right, #2968b6 , #0f3667 );
+  padding: 1.5% 0 1% 0;
+  font-size: 40px;
+  color: black;
+}
+
+.navbar{
+  background-color: inherit;
+  border: none;
+}
+
+.navbar .navbar-nav {
+    display: inline-block;
+    float: none;
+
+}
+.navbar .navbar-collapse {
+    text-align: center;
+
+}
+
+.navbar-nav>li>a{
+  color:#b3c6ce !important;
+
+}
+
+.navlinks{
+  padding-left: 50px !important;
+
+}
+.navlinks:hover{
+  color: #898989 !important;
+}
+
+/* section 2 codes start here
+.carousel-inner > .item > img, .carousel-inner > .item > a > img {
+
+    height: 100vh;
+    min-width: 100vw;
+    width: 100vw;
+    max-width: 100vw;
+    line-height: 1;
+    /* box-shadow: 100px 100px 500px #ccc !important;
+}
+.container-fluid,.row,.col-sm-12{
+  padding: 0px 0px 0px 0px !important;
+  margin: 0px 0px 0px 0px !important;
+}
+.main-text
+{
+    position: absolute;
+    top: 80px;
+    width: 96.66666666666666%;
+    color: #d1efff;
+}
+.carousel-indicators li {
+  visibility: hidden;
+}
+
+.intro{
+  font-size: 80px;
+  font-weight: 700;
+}
+.nafiur{
+
+  font-size: 10vw;
+  font-family: 'Poppins', sans-serif;
+  background: linear-gradient(to right, #2968b6 0%, #0f3667 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.reza{
+  font-size: 100px;
+
+}
+@media (max-width:991px) {
+
+  .navbar-nav>li>a{
+    padding-left: 0;
+  }
+
+
+} */
